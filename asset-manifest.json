@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wsiz-demo2/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/wsiz-demo2/static/js/main.ae5717c0.chunk.js",
+    "main.js.map": "/wsiz-demo2/static/js/main.ae5717c0.chunk.js.map",
+    "runtime-main.js": "/wsiz-demo2/static/js/runtime-main.8d7fd9a8.js",
+    "runtime-main.js.map": "/wsiz-demo2/static/js/runtime-main.8d7fd9a8.js.map",
+    "static/js/2.c8a23810.chunk.js": "/wsiz-demo2/static/js/2.c8a23810.chunk.js",
+    "static/js/2.c8a23810.chunk.js.map": "/wsiz-demo2/static/js/2.c8a23810.chunk.js.map",
+    "static/js/3.e74f84ad.chunk.js": "/wsiz-demo2/static/js/3.e74f84ad.chunk.js",
+    "static/js/3.e74f84ad.chunk.js.map": "/wsiz-demo2/static/js/3.e74f84ad.chunk.js.map",
+    "index.html": "/wsiz-demo2/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/wsiz-demo2/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c8a23810.chunk.js.LICENSE.txt": "/wsiz-demo2/static/js/2.c8a23810.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d7fd9a8.js",
+    "static/js/2.c8a23810.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ae5717c0.chunk.js"
+  ]
+}
