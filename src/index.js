@@ -6,14 +6,13 @@ import reportWebVitals from './reportWebVitals';
 import App from './App';
 import About from './About';
 import Items from './Items';
-import Notfound from './notfound';
 
-import { Route, Link, BrowserRouter as Router, NavLink, Switch } from 'react-router-dom';
+import { Route, BrowserRouter as Router, NavLink, Switch } from 'react-router-dom';
 
 const routing = (
   <Router>
     <div>
-      <h1>React Router Example</h1>
+      <h1>witryny - demo</h1>
       <ul>
         <li>
           <NavLink to="/" exact activeStyle={

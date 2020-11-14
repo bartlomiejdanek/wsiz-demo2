@@ -34,7 +34,7 @@ class Item extends React.Component {
 
   shouldComponentUpdate(nextProps, nextState) {
     // 5
-    return this.state.person.id == this.props.match.params.id;
+    return this.state.person.id === this.props.match.params.id;
   }
 
   render() {
@@ -48,7 +48,6 @@ class Item extends React.Component {
 
 export default class Items extends React.Component {
   render() {
-    const { url } = this.props.match
     return (
       <div>
         <h1>Welcome to Item Page</h1>
